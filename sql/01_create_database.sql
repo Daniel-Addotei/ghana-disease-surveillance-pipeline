@@ -1,0 +1,1 @@
+CREATE DATABASE ghana_public_health;
